@@ -2,12 +2,9 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-08-25T11:51:12+00:00</lastmod>
+		<lastmod>2026-08-26T00:21:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/06/viber_image_2026-05-25_13-07-16-324.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-898.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/06/zane-persaud-F_2bqTZ0Vl0-unsplash.jpg</image:loc>
@@ -32,8 +29,56 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/o-nama/</loc>
+		<lastmod>2026-08-26T00:18:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-59-52-594-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-05-25_13-07-20-766-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/usluge/</loc>
+		<lastmod>2026-08-26T00:19:10+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/06/viber_image_2026-05-25_13-07-16-341.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-898.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/06/192255111_6a0a59497edd56-06579699A3E61438-F596-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/MICA8241.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-46-24-430.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/06/dizajn.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/led-ekrani/</loc>
+		<lastmod>2026-08-26T00:23:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-05-25_13-07-20-766.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/06/viber_image_2026-05-25_13-07-20-766.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_10-01-16-630-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-50-473.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/ozvucenje/</loc>
-		<lastmod>2026-06-24T12:47:35+00:00</lastmod>
+		<lastmod>2026-08-26T00:25:04+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/06/kofi-nuamah-barden-2Rtc0Cdhmc4-unsplash.jpg</image:loc>
 		</image:image>
@@ -45,15 +90,31 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/graficki-dizajn/</loc>
-		<lastmod>2026-08-17T18:53:00+00:00</lastmod>
+		<loc>/rental/</loc>
+		<lastmod>2026-08-26T00:26:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/best-computer-for-graphic-design-Hire-intelligence.webp</image:loc>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-898-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-809-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/totemi/</loc>
+		<lastmod>2026-08-26T00:28:16+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-22_17-31-50-321-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_10-26-59-080-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-26-035-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>/prostor/</loc>
-		<lastmod>2026-08-22T18:34:17+00:00</lastmod>
+		<lastmod>2026-08-26T00:30:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2026/08/01.jpg</image:loc>
 		</image:image>
@@ -77,83 +138,19 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/</loc>
-		<lastmod>2026-08-22T18:36:22+00:00</lastmod>
+		<loc>/graficki-dizajn/</loc>
+		<lastmod>2026-08-26T00:30:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/viber_image_2026-05-25_13-07-16-341.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2026/06/best-computer-for-graphic-design-Hire-intelligence.webp</image:loc>
 		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-898.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/192255111_6a0a59497edd56-06579699A3E61438-F596-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/MICA8241.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-46-24-430.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/dizajn.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/totemi/</loc>
-		<lastmod>2026-08-22T18:47:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-22_17-31-50-321-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_10-26-59-080-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-26-035-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/rental/</loc>
-		<lastmod>2026-08-22T18:51:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-898-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-16-809-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/led-ekrani/</loc>
-		<lastmod>2026-08-23T10:41:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-05-25_13-07-20-766.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/06/viber_image_2026-05-25_13-07-20-766.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_10-01-16-630-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-58-50-473.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/about/</loc>
-		<lastmod>2026-08-23T10:49:40+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-08-18_09-59-52-594-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2026/08/viber_image_2026-05-25_13-07-20-766-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/contact/</loc>
-		<lastmod>2026-08-23T10:50:36+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/portfolio/</loc>
-		<lastmod>2026-08-25T16:48:50+00:00</lastmod>
+		<lastmod>2026-08-26T00:33:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/kontakt/</loc>
+		<lastmod>2026-08-26T00:34:44+00:00</lastmod>
 	</url>
 </urlset>
 <!-- XML Sitemap generated by Yoast SEO -->
